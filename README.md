@@ -65,7 +65,7 @@ O delineamento experimental considerou 6 genótipos, com coletas realizadas no e
 O tratamento dos dados foi realizado em Python, utilizando as bibliotecas **pandas**, **NumPy**, **SciPy** e **matplotlib**. As etapas principais incluíram:
 
 1. **Limpeza e padronização** do arquivo `afq.csv`.
-2. **Agrupamento** das amostras P1–P6 nos 4 genótipos definidos.
+2. **Agrupamento** das amostras P1–P6 nos 6 genótipos definidos.
 3. **Estatística descritiva** (média e desvio padrão) para todas as variáveis.
 4. **ANOVA de um fator** para comparar os genótipos.
 5. **Teste post-hoc de Tukey** para identificar diferenças significativas (α = 0,05).
