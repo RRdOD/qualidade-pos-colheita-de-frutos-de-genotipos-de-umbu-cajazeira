@@ -56,7 +56,7 @@ Os dados brutos estão armazenados no arquivo `afq.csv` (análise físico-quími
 | P5 | Fazenda Humaitá – longe do rio | Genótipo 5 |
 | P6 | Fazenda Humaitá – perto do rio | Genótipo 6 |
 
-O delineamento experimental considerou 4 genótipos, com coletas realizadas no estádio de maturação comercial (coloração amarela da casca).
+O delineamento experimental considerou 6 genótipos, com coletas realizadas no estádio de maturação comercial (coloração amarela da casca).
 
 ---
 
