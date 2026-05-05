@@ -2,6 +2,7 @@
 
 **Projeto de Ciência de Dados**  
 *Análise estatística e visualização de dados experimentais para a seleção de genótipos promissores na agroindústria da Paraíba.*
+*Obs:* o que está descrito abaixo em relação a quantidade de genótipos, só tem relação com o arquivo umbu_caja.ipynb, que é uma continuação do projeto que está no arquivo PDF.
 
 ---
 
@@ -13,7 +14,7 @@ A umbu-cajazeira é uma frutífera de grande relevância para a agricultura fami
 
 ## 🎯 Objetivos
 
-- Analisar as características físicas (peso, comprimento, diâmetro, rendimento de polpa) de quatro genótipos de umbu-cajazeira.
+- Analisar as características físicas (peso, comprimento, diâmetro, rendimento de polpa) de seis genótipos de umbu-cajazeira.
 - Quantificar compostos bioativos (vitamina C, polifenóis, carotenoides, flavonoides) e parâmetros de qualidade (sólidos solúveis, acidez titulável, ratio SS/AT).
 - Comparar estatisticamente os genótipos por meio de ANOVA e teste de Tukey (α = 5%).
 - Recomendar os genótipos mais adequados ao processamento industrial com base em evidências quantitativas.
@@ -62,7 +63,7 @@ O delineamento experimental considerou 6 genótipos, com coletas realizadas no e
 
 ## 🔬 Metodologia
 
-O tratamento dos dados foi realizado em Python, utilizando as bibliotecas **pandas**, **NumPy**, **SciPy** e **matplotlib**. As etapas principais incluíram:
+O tratamento dos dados foi realizado em Python, utilizando as bibliotecas **pandas**, **NumPy**, e **matplotlib**. As etapas principais incluíram:
 
 1. **Limpeza e padronização** do arquivo `afq.csv`.
 2. **Agrupamento** das amostras P1–P6 nos 6 genótipos definidos.
